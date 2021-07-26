@@ -1,9 +1,9 @@
 # py_repo
 
-repository of python codes 
+Repository of python codes 
 for my personal use. 
 
-used this for studying and improving my python coding.
+Used this for studying and improving my python coding.
 
 
 
